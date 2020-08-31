@@ -189,10 +189,13 @@
 }
 
 /* -----------------Герой------------------- */
+.hero {
+  background: var(--footer-color);
+}
 .hero-container {
   margin: 0 auto;
   padding: 200px 0 198px;
-  background: var(--footer-color);
+  /* background: var(--footer-color); */
 }
 .hero-title {
   margin-bottom: 28px;
